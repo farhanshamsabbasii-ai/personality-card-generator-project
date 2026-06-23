@@ -1,6 +1,6 @@
 # 😎 personality-card-generator-project
 
-A command-line personality card geerator built in **Python** — my **second** project for the **Code to AI** course! 🚀
+A command-line personality card generator built in **Python** — my **second** project for the **Code to AI** course! 🚀
 
 It asks the user for 8 inputs and instantly generates a card.
 
